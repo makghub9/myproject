@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/techragesh/springboot-cloud-config-demo
-          search-paths: cloudconfigrepo
+          uri: https://github.com/makghub9/myconfigrepo
+          search-paths: myconfigrepo
   application:
     name: cloudconfigserver
